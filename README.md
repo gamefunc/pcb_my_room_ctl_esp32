@@ -20,3 +20,8 @@ or use jlc_eda_stable import:
 ![image](https://raw.githubusercontent.com/gamefunc/pcb_my_room_ctl_esp32/main/imgs/17.jpg)
 ![image](https://raw.githubusercontent.com/gamefunc/pcb_my_room_ctl_esp32/main/imgs/18.jpg)
 
+# 2021.10 orignal fly fly:
+![image](https://raw.githubusercontent.com/gamefunc/pcb_my_room_ctl_esp32/main/imgs/2.jpg)
+![image](https://raw.githubusercontent.com/gamefunc/pcb_my_room_ctl_esp32/main/imgs/1.jpg)
+![image](https://raw.githubusercontent.com/gamefunc/pcb_my_room_ctl_esp32/main/imgs/5.jpg)
+
