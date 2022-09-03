@@ -10,6 +10,7 @@ or use jlc_eda_stable import:
   PCB_room_MAIN_2022_06_10_0_2022-09-03.json 
   PCB_room_SUB_2022_06_10_0_2022-09-03.json
 
+![image](https://raw.githubusercontent.com/gamefunc/pcb_my_room_ctl_esp32/main/imgs/x.png)
 ![image](https://raw.githubusercontent.com/gamefunc/pcb_my_room_ctl_esp32/main/imgs/7.jpg)
 ![image](https://raw.githubusercontent.com/gamefunc/pcb_my_room_ctl_esp32/main/imgs/11.jpg)
 ![image](https://raw.githubusercontent.com/gamefunc/pcb_my_room_ctl_esp32/main/imgs/12.jpg)
