@@ -13,11 +13,10 @@ or use jlc_eda_standard import:
 ![image](https://raw.githubusercontent.com/gamefunc/pcb_my_room_ctl_esp32/main/imgs/x.png)
 ![image](https://raw.githubusercontent.com/gamefunc/pcb_my_room_ctl_esp32/main/imgs/7.jpg)
 ![image](https://raw.githubusercontent.com/gamefunc/pcb_my_room_ctl_esp32/main/imgs/11.jpg)
-![image](https://raw.githubusercontent.com/gamefunc/pcb_my_room_ctl_esp32/main/imgs/12.jpg)
+![image](https://raw.githubusercontent.com/gamefunc/pcb_my_room_ctl_esp32/main/imgs/17.jpg)
 ![image](https://raw.githubusercontent.com/gamefunc/pcb_my_room_ctl_esp32/main/imgs/14.jpg)
 ![image](https://raw.githubusercontent.com/gamefunc/pcb_my_room_ctl_esp32/main/imgs/15.jpg)
 ![image](https://raw.githubusercontent.com/gamefunc/pcb_my_room_ctl_esp32/main/imgs/16.jpg)
-![image](https://raw.githubusercontent.com/gamefunc/pcb_my_room_ctl_esp32/main/imgs/17.jpg)
 ![image](https://raw.githubusercontent.com/gamefunc/pcb_my_room_ctl_esp32/main/imgs/18.jpg)
 
 # 2021.10 orignal fly fly:
